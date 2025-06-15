@@ -22,7 +22,7 @@ botao.Draggable = true
 
 -- Animação de abraço (R15)
 local anim = Instance.new("Animation")
-anim.AnimationId = "rbxassetid://507771019" -- Hug anim (funciona em R15)
+anim.AnimationId = "rbxassetid://9410036476" -- Hug anim (funciona em R15)
 
 -- Função: pegar player mais próximo
 local function getClosestPlayer()
